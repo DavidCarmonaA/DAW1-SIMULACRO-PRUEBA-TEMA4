@@ -2,6 +2,7 @@
 ***David Carmona Arrabal***
 *24/04/2024*
 ## EJERCICIO 1
+![](https://github.com/DavidCarmonaA/DAW1-SIMULACRO-PRUEBA-TEMA4/blob/af5d836ec8a49ce58a58b4b631fe0aecd815791e/img/1.JPG)
 ## EJERCICIO 2
 ## EJERCICIO 3
 ## EJERCICIO 4
